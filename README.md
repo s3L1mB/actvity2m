@@ -65,9 +65,9 @@ If you want, you can change the script slightly for Cypress to run every test by
 ```json
 {
   "scripts": {
-    "cypress:open": "cypress open"
+    "cypress:open": "cypress open",
     "cypress:run": "cypress run"
-  },
+  }
 }
 ```
 
