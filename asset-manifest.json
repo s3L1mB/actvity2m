@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/acvity2m/static/css/main.e6c13ad2.css",
+    "main.js": "/acvity2m/static/js/main.1a2294ce.js",
+    "static/js/787.12f61cc9.chunk.js": "/acvity2m/static/js/787.12f61cc9.chunk.js",
+    "index.html": "/acvity2m/index.html",
+    "main.e6c13ad2.css.map": "/acvity2m/static/css/main.e6c13ad2.css.map",
+    "main.1a2294ce.js.map": "/acvity2m/static/js/main.1a2294ce.js.map",
+    "787.12f61cc9.chunk.js.map": "/acvity2m/static/js/787.12f61cc9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1a2294ce.js"
+  ]
+}
